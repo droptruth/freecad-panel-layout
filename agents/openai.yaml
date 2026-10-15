@@ -1,0 +1,4 @@
+interface:
+  display_name: "拆板排版与R3让刀"
+  short_description: "将拆板整齐排入外框，保留6毫米间距并生成单条R3圆弧让刀"
+  default_prompt: "使用 $freecad-panel-layout 处理当前拆板图，默认1200×2400毫米外框、部件与边框间距6毫米，内直角生成单条R3圆弧，并保存修正版。"
